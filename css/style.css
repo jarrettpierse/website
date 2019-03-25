@@ -87,10 +87,10 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-hero.overlay .lead { color: #fff; opacity: .5; }
 
-.templateux-hero, .intro { height: 90vh; min-height: 700px; }
+.templateux-hero, .intro { height: 90; min-height: 700px; }
 
-.templateux-hero h1, .intro h1 { color: #000; font-size: 150px; } /* titles */
-.templateux-hero h6, .intro h6 { font-weight: bold; color: #000; font-size: 135px; } /* home page TITLE size */
+.templateux-hero h1, .intro h1 { color: #000; font-size: 95px; } /* titles */
+.templateux-hero h6, .intro h6 { font-weight: bold; color: #000; font-size: 95px; } /* home page TITLE size */
 
 @media (max-width: 991.98px) { .templateux-hero h1, .intro h1 { font-size: 36px; } }
 
